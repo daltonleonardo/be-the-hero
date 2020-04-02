@@ -112,7 +112,8 @@ Semana OmniStack 11.0
     
     27/03 - Funcionalidades avançadas
     
-    
+    git
+    git push origin master -f
 
 
 
