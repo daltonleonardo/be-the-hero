@@ -1,0 +1,122 @@
+
+https://rocketseat.com.br/week/aulas/11.0?aula=1
+Semana OmniStack 11.0
+
+    23/03 - Conhecendo a OmniStack
+
+        ReactJS
+        React Native & Expo
+ 
+        LTS (Long Term Support)
+
+    24/03 - Criando a base da aplicação
+
+        Gerenciador de pacotes MAC
+        https://brew.sh/
+
+        The Package Manager for Windows
+            Modern Software Automation
+        https://chocolatey.org/
+    
+        node -v  v10.16.0 > curso v12.13.0
+        npm -v   6.14.4   > curso 6.12.0
+
+        extensions: theme 
+            
+            draculo official > thema escuro para o vscode
+            material icon theme > icones para o vscode
+
+       mkdir backend
+       cd backend  
+       npm init -y
+
+       npm i express
+
+       http://localhost:3333/
+            Cannot GET /
+
+       https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh/related?hl=pt-BR
+       chrome theme - draculo custom
+
+       https://github.com/tulios/json-viewer
+
+       // 
+       npx create-react-app frontend
+
+       cd frontend 
+
+       instalar o Expo, pois caso contrário temos que instalar várias bibliotecas de android e IOS
+        gerando apenas código em javascript
+
+        .apk código para android
+        .ipa código para o IOS
+
+    25/03 - Construindo a interface web
+    https://rocketseat.com.br/week/aulas/11.0?aula=2
+
+
+        https://insomnia.rest/
+
+        npm i nodemon -D  
+
+        npm run start
+
+        KNEX.JS
+        npm i knex
+
+        npm i sqlite3
+
+        // npx executa o pacote, enquanto o npm instala o pacote
+        npx knex init
+
+        http://knexjs.org/#migrations
+
+            knex migrate:make migration_name
+
+            npx knex migrate:make create_ongs
+
+            npx knex migrate:make create_incidents
+                gera o arquivo Semana OmniStack 11.0/backend/src/database/migrations/20200401131905_create_incidents.js
+
+            //desfaz a ultima migrate
+            npx knex migrate:rollback     
+
+            // consulta a migrate executadas
+            npx knex migrate:status
+
+            // criar o banco
+            npx knex migrate:latest
+
+            api
+                post: http://localhost:3333/ongs
+                    body: {
+                        "name": "APAD",
+                        "email": "contato@apad.com.br",
+                        "whatsapp": "4500000000",
+                        "city": "Rio Grande do Sul",
+                        "uf": "RS"
+                    }
+                get: http://localhost:3333/users
+
+
+          http://localhost:3333/incidents
+
+        
+          http://localhost:3333/incidents?page=2
+
+         npm install cors
+
+         
+
+    26/03 - Desenvolvendo o app mobile
+    
+    27/03 - Funcionalidades avançadas
+    
+    
+
+
+
+
+others: 
+    https://assets.thoughtworks.com/assets/technology-radar-vol-21-pt.pdf
+
