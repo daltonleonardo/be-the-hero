@@ -109,6 +109,122 @@ Semana OmniStack 11.0
          
 
     26/03 - Desenvolvendo o app mobile
+
+
+        npm install -g expo-cli 
+
+        //help
+        expo -h
+
+        https://github.com/Rocketseat/expo-common-issues
+
+
+        expo init mobile 
+        
+        \\Para Debugar expo
+        terminal
+            export EXPO_DEBUG=true
+
+
+        cd mobile
+
+        cd mobile
+        yarn start
+            http://localhost:19002/
+
+            Run on iOS simulator
+            terminal
+            sudo xcode-select -s /Applications/Xcode.app
+
+
+        //deletar pasta
+        rm -R mobile
+
+
+        snack.expo.io
+
+        fast refresh, quando altera o código e já reflete na tela
+
+        todos os controles são display flex por padrão
+
+
+        https://reactnavigation.org/
+        https://reactnavigation.org/docs/getting-started
+        funcion com e sem exp para web e mobile
+
+        npm install @react-navigation/native
+        expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+
+        expo install expo-constants
+
+
+        *Quando quiser exibir uma lista no react, utilize o flatlist ao invéz do View
+        
+
+        // pacote do expo para mandar e-mail
+        expo install expo-mail-composer
+
+            https://docs.expo.io/versions/latest/sdk/mail-composer/
+
+
+
+        // deeplink
+        whatsapp://
+
+        //vamos executar o backend
+        cd ..
+        cd backend
+        npm start
+
+        abra Insominia
+        get http://localhost:3333/incidents?page=1
+
+        instalar axios
+        npm install axios
+
+
+        npm install intl
+
+
+
+        https://reactnavigation.org/docs/hello-react-navigation
+        será  utilizada navegação por botoes
+
+        npm install @react-navigation/stack
+
+        https://www.figma.com/file/5MweMOJUmML7ba2rfjewd7/Untitled?node-id=0%3A1
+
+        https://github.com/mirandati7/omnistack-11/blob/master/mobile/src/pages/Incidents/index.js
+
+        https://anotepad.com/
+
+        https://www.worldometers.info/coronavirus/
+
+        https://rocketseat.com.br/week/aulas/11.0?aula=4
+
+        https://meet.google.com/vxi-acni-trt?authuser=1
+
+
+        http://172.26.162.5/porto.auto.guide.cotacao/#/inputtag
+
+        https://portoseguro.atlassian.net/browse/A20TI5-196
+        https://portoseguro.atlassian.net/browse/A20TI5-196
+
+
+        https://portoseguro.atlassian.net/secure/RapidBoard.jspa?rapidView=1154&projectKey=A20TI5&selectedIssue=A20TI5-196&assignee=5e3461ad3940fb0cad680ef7
+        https://mail.google.com/mail/u/1/#inbox
+
+        http://sonarportoprd.portoseguro.brasil/dashboard?id=porto%3Aauto-cotacao-app%3Aweb%3Adev
+
+        http://li2741.portoseguro.brasil:8080/job/Automovel/job/Auto2/job/Desenvolvimento/view/03.%20M%C3%B3dulo%20-%20CD/job/esteira__cd__auto2__frontend__angular7__auto-cotacao__dev/
+        http://li2741.portoseguro.brasil:8080/job/Automovel/job/Auto2/job/Desenvolvimento/view/02.%20M%C3%B3dulo%20-%20CI/job/esteira__ci__auto2__frontend__angular7__auto-cotacao-app__dev/
+
+        https://gitportoprd.portoseguro.brasil/automovel/cotacao/angular/auto-cotacao-web/commits/dev
+
+        
+
+
     
     27/03 - Funcionalidades avançadas
     
@@ -120,4 +236,42 @@ Semana OmniStack 11.0
 
 others: 
     https://assets.thoughtworks.com/assets/technology-radar-vol-21-pt.pdf
+
+
+
+06/04
+    https://www.pluralsight.com/courses/devops-big-picture
+    http://www.gpnet.com.br/cinco-conceitos-para-desenvolvedores-de-apps/
+
+    https://www.youtube.com/watch?v=ZMNp9Ev6cl0&fbclid=IwAR1pahe87N0KeSnePlstuLRWtW8MemTHWgZtpPIUnFlSzebF3YX0DWNqSgE
+    https://cloud.google.com/blog/topics/training-certifications/expanding-at-home-learning
+
+    https://www.google.com/search?q=cloud+angular&rlz=1C5CHFA_enAR850AR850&oq=cloud+angular&aqs=chrome..69i57j0l7.3564j0j7&sourceid=chrome&ie=UTF-8
+
+    https://www.baeldung.com/spring-cloud-angular
+    https://medium.com/felixklauke/angular-google-cloud-build-app-engine-5e7c2038bdad
+
+    https://angular.io/start/start-deployment
+
+    https://codelabs.developers.google.com/codelabs/cloud-cardboard-viewer/index.html?index=..%2F..index#0
+    https://dev.to/marwan01/deploy-an-angular-app-using-google-cloud-run-3p4a
+
+    https://www.theschooloflife.com/saopaulo/
+
+    https://www.google.com/search?q=cloud+angular&rlz=1C5CHFA_enAR850AR850&oq=cloud+angular&aqs=chrome..69i57j0l7.3564j0j7&sourceid=chrome&ie=UTF-8
+
+    https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2020/04/06/com-quarentena-venda-de-itens-para-exercicios-em-casa-cresce-ate-10-vezes.ghtml
+
+
+    https://www.nacaofluente.com/blog/como-melhorar-seu-ingles-com-ted/?utm_source=linkedin&utm_medium=anuncio&utm_campaign=artigo_ted_c03_02_2020&utm_content=melhorar-ingl%C3%AAs-com-ted-talks_img3&li_fat_id=6a0c38c9-67d9-48de-92a6-60345b788425
+
+    https://www.youtube.com/watch?v=Vf5uUKKTdrs&feature=youtu.be
+
+    https://eng.uber.com/multitenancy-microservice-architecture/
+
+    https://mylearning.accenture.com/mylearningui/learner/coursedetail/1680382
+
+
+
+
 
