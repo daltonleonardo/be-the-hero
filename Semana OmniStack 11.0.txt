@@ -235,7 +235,17 @@ Semana OmniStack 11.0
     28/03
     https://www.youtube.com/watch?v=UmF7WV89TAM
 
-    
+    //projeto de referencia
+    https://github.com/mirandati7/omnistack-11
+
+    https://medium.com/@aleseverojr/omnistack-week-11-o-que-rolou-2b6381d6b442
+
+    https://reactnavigation.org/blog/2020/02/06/react-navigation-5.0/
+
+    http://abneroliveira.eti.br/category/desenvolvimento/semana-omnistack/
+
+    https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg/videos
+
 
 others: 
     https://assets.thoughtworks.com/assets/technology-radar-vol-21-pt.pdf
