@@ -232,7 +232,10 @@ Semana OmniStack 11.0
     git push origin master -f
 
 
+    28/03
+    https://www.youtube.com/watch?v=UmF7WV89TAM
 
+    
 
 others: 
     https://assets.thoughtworks.com/assets/technology-radar-vol-21-pt.pdf
@@ -271,6 +274,13 @@ others:
 
     https://mylearning.accenture.com/mylearningui/learner/coursedetail/1680382
 
+
+08/04
+    https://github.com/pabloruan0710/covid19-ios
+
+    https://www.nacaofluente.com/?utm_source=site&utm_medium=popup&utm_campaign=fluenciadescomplicada
+
+    
 
 
 

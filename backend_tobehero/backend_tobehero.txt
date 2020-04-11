@@ -1,0 +1,51 @@
+
+http://abneroliveira.eti.br/omnistack11-node-reactjs-react-native/
+
+    terminal
+        yarn init -y
+        yarn add express
+
+        // executar o projeto
+        node index
+
+        // Acessar as rotas
+        http://localhost:3333/
+
+        #adicionar o nodemon ao projeto como dependência de desevolvimento
+        yarn add nodemon -D
+
+        yarn start
+
+        // instalar mais bibliotecas
+        yarn add knex
+        yarn add sqlite3
+
+        npx knex init
+
+
+    http://knexjs.org/#Migrations
+
+        terminal
+            src
+                npx knex migrate:make create_ongs
+                npx knex migrate:make create_incidents
+
+                npx knex migrate:latest
+
+                // caso nao funcione apaga o arquivo db.sqlite
+        mac
+        insomnia.app
+
+http://abneroliveira.eti.br/omnistack11-backend-da-aplicacao-com-node-e-express-dia-02/
+    Adicionando o CORS
+    yarn add cors
+
+
+http://abneroliveira.eti.br/omnistack11-criando-a-interface-web-com-reactjs/
+
+    yarn start
+
+    yarn add react-router-dom
+    yarn add react-icons
+
+    

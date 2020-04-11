@@ -1,0 +1,37 @@
+
+http://abneroliveira.eti.br/omnistack11-criando-a-interface-web-com-reactjs/
+
+
+    npx create-react-app frontend
+    ou 
+        npm install -g create-react-app
+        yarn add --global create-react-app
+
+    yarn start
+
+
+http://abneroliveira.eti.br/omnistack11-backend-da-aplicacao-com-node-e-express-dia-02/
+
+     Ajustando o projeto
+        yarn add react-router-dom
+
+        yarn add react-icons
+
+    yarn add axios
+
+http://localhost:3000/register
+
+
+Passo a passo:
+    http://localhost:3000/
+    Código de Aceso 775e18a9
+    
+    http://localhost:3000/profile
+
+        Exemplo Covid19
+        Código:3 
+        Código de Aceso 775e18a9
+
+
+https://medium.com/@aleseverojr/omnistack-week-11-o-que-rolou-2b6381d6b442
+
